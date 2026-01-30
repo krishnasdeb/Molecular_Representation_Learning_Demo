@@ -1,0 +1,7 @@
+{
+    "input_dim": 3,
+    "hidden_dim": 32,
+    "output_dim": 1,
+    "lr": 0.00001,
+    "EPOCHS" : 100
+}

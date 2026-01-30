@@ -1,0 +1,8 @@
+deepchem==2.5.0
+numpy @ file:///Users/runner/miniforge3/conda-bld/bld/rattler-build_numpy_1768085575/work/dist/numpy-2.4.1-cp314-cp314-macosx_11_0_arm64.whl#sha256=d1258b8932d8db0f95be1ff53e8602081f8ee5151168168f687246ff48add850
+pandas @ file:///Users/runner/miniforge3/conda-bld/bld/rattler-build_pandas_1769076421/work
+rdkit @ file:///Users/runner/miniforge3/conda-bld/rdkit-meta_1767159571876/work
+torch==2.10.0
+torch-geometric==2.7.0
+torchvision==0.25.0
+tqdm==4.67.1
